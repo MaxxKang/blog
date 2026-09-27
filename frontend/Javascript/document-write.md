@@ -15,8 +15,10 @@
 
 <figure>
   <img src="https://github.com/user-attachments/assets/8c0ed9f2-835d-47df-9b07-904e57044730" alt="결과 화면">
-  <figcation>document.write() 문 실행 결과</figcation>
-</figure>
+  <figcaption>document.write() 문 실행 결과</figcation>
+</figure>  
+
+## 연산자 사용하기
 
 웹 브라우저 화면에 표시할 내용과 변수를 섞어서 나타낼 수도 있다. 이 때 + 연산자를 사용하면 된다.  
 여기에서의 + 는 더하기 기호가 아니라 **연결 연산자**이다.
@@ -42,4 +44,4 @@
 또한, 문서 로딩이 이미 완료된 상태에서 `document.write()` 가 실행되면, 브라우저는 기존에 만들어둔 HTML 구조와 적용된 CSS 및 이벤트 리스너를 모두 메모리에서 지워버리고 빈 화면에 새로운 내용만 출력하게 된다.
 
 이러한 전체 화면 초기화 문제를 피하고 렌더링 성능을 높이기 위해서는 상태 변화에 따라 특정 DOM 요소만 세밀하게 업데이트 하는 방식을 사용한다.  
-이러한 방식에는 `document.getElementById()` 또는 `document.querySelector()`가 사용된다.
+이러한 방식에는 [`document.getElementBy*()`](rontend/Javascript/document-getElementBy.md) 또는 [`document.querySelector()`]() 가 사용된다.
