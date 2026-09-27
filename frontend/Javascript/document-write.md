@@ -15,7 +15,7 @@
 
 <figure>
   <img src="https://github.com/user-attachments/assets/8c0ed9f2-835d-47df-9b07-904e57044730" alt="결과 화면">
-  <figcaption>document.write() 문 실행 결과</figcation>
+  <figcaption>document.write() 문 실행 결과</figcaption>
 </figure>  
 
 ## 연산자 사용하기
