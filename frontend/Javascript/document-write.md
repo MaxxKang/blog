@@ -8,9 +8,7 @@
 물론 HTML 태그도 함께 사용할 수 있다.  
 
 ```javascript
-<script>
   document.write("<h1>안녕하세요</h1>");
-</script>
 ```
 
 <figure>
