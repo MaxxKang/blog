@@ -14,4 +14,4 @@
 ```
 
 <img width="1280" height="455" alt="스크린샷 2026-09-27 123811" src="https://github.com/user-attachments/assets/91fd1f1b-2ae5-46bf-b947-2a695c5b6576" />
-
+*document.write() 문으로 제목 표시하기
