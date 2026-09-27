@@ -44,4 +44,4 @@
 또한, 문서 로딩이 이미 완료된 상태에서 `document.write()` 가 실행되면, 브라우저는 기존에 만들어둔 HTML 구조와 적용된 CSS 및 이벤트 리스너를 모두 메모리에서 지워버리고 빈 화면에 새로운 내용만 출력하게 된다.
 
 이러한 전체 화면 초기화 문제를 피하고 렌더링 성능을 높이기 위해서는 상태 변화에 따라 특정 DOM 요소만 세밀하게 업데이트 하는 방식을 사용한다.  
-이러한 방식에는 [`document.getElementBy*()`](frontend/Javascript/document-getElementBy.md) 또는 [`document.querySelector()`]() 가 사용된다.
+이러한 방식에는 [`document.getElementBy*()`](/frontend/Javascript/document-getElementBy.md) 또는 [`document.querySelector()`]() 가 사용된다.
