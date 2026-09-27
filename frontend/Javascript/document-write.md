@@ -8,7 +8,7 @@
 물론 HTML 태그도 함께 사용할 수 있다.  
 
 ```javascript
-  document.write("<h1>안녕하세요</h1>");
+document.write("<h1>안녕하세요</h1>");
 ```
 
 <figure>
@@ -22,8 +22,8 @@
 여기에서의 + 는 더하기 기호가 아니라 **연결 연산자**이다.
 
 ```javascript
-  let name = prompt("이름을 입력하세요");
-  document.write(name + "님, 환영합니다.");
+let name = prompt("이름을 입력하세요");
+document.write(name + "님, 환영합니다.");
 ```
 
 <figure>
