@@ -9,6 +9,6 @@
 
 ```javascript
 <script>
-  document.write("<h1>안녕하세요</h1>
+  document.write("<h1>안녕하세요</h1>")
 </script>
 ```
