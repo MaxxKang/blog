@@ -56,6 +56,13 @@ change.addEventListener("click", function() {
 });
 ```
 
+<style>
+  #text-change {
+    padding: 2px 4px;
+    border: 1px solid #3f3f3f;
+    border-radius: 4px;
+</style>
+
 <button id="text-change">변경 전</button>
 
 <script>
