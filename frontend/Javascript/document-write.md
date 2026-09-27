@@ -13,4 +13,5 @@
 </script>
 ```
 
-<img width="1280" height="640" alt="스크린샷 2026-09-27 123811" src="https://github.com/user-attachments/assets/18fe7afa-a79d-4e94-b023-5b1bd9d92d7d" />
+<img width="1280" height="455" alt="스크린샷 2026-09-27 123811" src="https://github.com/user-attachments/assets/91fd1f1b-2ae5-46bf-b947-2a695c5b6576" />
+
