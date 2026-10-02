@@ -6,8 +6,8 @@
 ### HTML
 
 ### JavaScript
-[JavaScript: document.write() 사용법](./frontend/Javascript/document-write.md)  
-[JavaScript: document.getElement*() 사용법](/frontend/Javascript/document-getElementBy.md)  
+[JavaScript: document.write() 사용법](frontend/Javascript/document-write.md)  
+[JavaScript: document.getElement*() 사용법](frontend/Javascript/document-getElementBy.md)  
 [JavaScript: Call-back function](frontend/Javascript/callback-function.md)
 
 ### CSS
