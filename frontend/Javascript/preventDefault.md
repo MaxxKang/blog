@@ -7,13 +7,13 @@
 document.addEventListener("DOMContentLoaded", function() {
     let resultBtn = document.querySelector(".btn");
     // 매개변수 이름은 e, evt, event 등 자유롭게 지을 수 있다.
-    resultBtn.addEventListener("click", function(event)) {
+    resultBtn.addEventListener("click", function(e) {
         // 폼 전송(새로고침) 기본 이벤트 차단
-        event.preventDefault();
+        e.preventDefault();
 
         // 차단 이후 실행할 새로운 로직 작성
         console.log("기본 이벤트 차단, 새로운 함수 실행");
-    }
+    });
 });
 ```
 
